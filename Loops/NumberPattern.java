@@ -8,6 +8,7 @@ public class NumberPattern {
                 System.out.print((a++)+" ");
             }
             System.out.println();
+            System.out.println();
         }
     }
 }
